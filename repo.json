@@ -1,6 +1,6 @@
 {
-	"name": "初一源",
-	"sourceURL": "http://y.nbtd.vip",
+	"name": "MyAltStoreRepo",
+	"sourceURL": "https://raw.githubusercontent.com/banaisakula/MyAltStoreRepo/main/repo.json",
 	"apps": [{
 			"name": "公告",
 			"version": "1.0",
