@@ -1,0 +1,235 @@
+{
+	"name": "初一源",
+	"sourceURL": "http://y.nbtd.vip",
+	"apps": [{
+			"name": "公告",
+			"version": "1.0",
+			"versionDate": "2099-12-31",
+			"iconURL": "http://tiebapic.baidu.com/tieba/pic/item/4ec2d5628535e5dd0847128461c6a7efce1b6206.jpg",
+			"downloadURL": "https://www.baidu.com",
+			"localizedDescription": "以下软件均来自互联网,不得将软件用于商业或者非法用途,否则,一切后果请用户自负!您必须在下载后的24个小时内从您的设备中彻底删除,如有侵权请联系我处理!想提供IPA到此源分享他人使用的或者需要稳定包年证书联系QQ291969996,UDID个人证书¥100,包用1年,掉了不限次数换新",
+			"size": 2447
+		},
+		{
+			"name": "签名测试包",
+			"bundleIdentifier": "nbtd.vip.test",
+			"version": "1.0",
+			"versionDate": "2020-10-17",
+			"downloadURL": "https://outexp-beta.cdn.qq.com/outbeta/2020/10/17/nbtdviptest_1_9956332f-a0b6-547e-bc04-cf2111b8a334.ipa",
+			"iconURL": "http://tiebapic.baidu.com/tieba/pic/item/0b7b02087bf40ad14a2b17bd402c11dfa8eccea5.jpg",
+			"localizedDescription": "[工具]用于测试证书签名是否能正常安装到手机",
+			"tintColor": "018084",
+			"size": 60567
+		},
+             {
+			"name": "TikTok",
+			"bundleIdentifier": "com.zhiliaoapp.musically.1",
+			"version": "24.4.0",
+			"versionDate": "2022-05-10",
+			"downloadURL": "https://ds6.lanzoui.com/ieffz04lccdi",
+			"iconURL": "http://tiebapic.baidu.com/tieba/pic/item/d058ccbf6c81800ab6d25974a63533fa828b4791.jpg",
+			"localizedDescription": "抖音国际版,安装即可使用,需要挂V!主要特点：突破屏蔽，支持切换地区观看支持WIFI/4G网络观看，保存视频无水印",
+			"tintColor": "018084",
+			"size": 117293056
+		},
+		{
+			"name": "NB·Plus-插件版",
+			"bundleIdentifier": "nbtd.vip.plus",
+			"version": "8.0.25.32",
+			"versionDate": "2022-07-06",
+			"downloadURL": "https://outexp-beta.cdn.qq.com/outbeta/2022/07/06/nbtdvipplus_8.0.25.32_4f3bbc06-b343-5647-a064-32f9dd35d86c.ipa",
+			"iconURL": "http://tiebapic.baidu.com/tieba/pic/item/d6ca7bcb0a46f21feb10b32ae1246b600c33aea7.jpg",
+			"localizedDescription": "插件版,功能多,版本新,很稳定,如需付费版带推送无启动广告的请联系QQ291969996",
+			"tintColor": "018084",
+			"size": 222182457
+		},
+        {
+			"name": "NB·Plus-纯净版",
+			"bundleIdentifier": "nbtd.vip.plus",
+			"version": "8.0.25.32",
+			"versionDate": "2022-07-06",
+			"downloadURL": "https://outexp-beta.cdn.qq.com/outbeta/2022/07/06/nbtdvipplus_8.0.25.32_bd63e873-0722-516f-b8f1-589a225f1deb.ipa",
+			"iconURL": "http://tiebapic.baidu.com/tieba/pic/item/d6ca7bcb0a46f21feb10b32ae1246b600c33aea7.jpg",
+			"localizedDescription": "纯净版,无任何附加功能,如需付费版带推送无启动广告的请联系QQ291969996",
+			"tintColor": "018084",
+			"size": 212084944
+		},
+		{
+			"name": "NB·Plus-插件版",
+			"bundleIdentifier": "nbtd.vip.plus",
+			"version": "8.0.26",
+			"versionDate": "2022-08-09",
+			"downloadURL": "https://pan.nbtd.vip/d/IPA%E5%88%86%E4%BA%AB/NB%C2%B7Plus-wx%E5%A4%9A%E5%BC%80/NB%C2%B7Plus%E6%8F%92%E4%BB%B6%E7%89%88-v8.0.26.ipa",
+			"iconURL": "http://tiebapic.baidu.com/tieba/pic/item/d6ca7bcb0a46f21feb10b32ae1246b600c33aea7.jpg",
+			"localizedDescription": "插件版,功能多,版本新,很稳定,如需付费版带推送无启动广告的请联系QQ291969996",
+			"tintColor": "018084",
+			"size": 230768881
+		},
+             {
+			"name": "NB·Plus-纯净版",
+			"bundleIdentifier": "nbtd.vip.plus",
+			"version": "8.0.26",
+			"versionDate": "2022-07-20",
+			"downloadURL": "https://pan.nbtd.vip/d/IPA%E5%88%86%E4%BA%AB/NB%C2%B7Plus-wx%E5%A4%9A%E5%BC%80/NB%C2%B7Plus%E7%BA%AF%E5%87%80%E7%89%88-v8.0.26.ipa",
+			"iconURL": "http://tiebapic.baidu.com/tieba/pic/item/d6ca7bcb0a46f21feb10b32ae1246b600c33aea7.jpg",
+			"localizedDescription": "纯净版,无任何附加功能,如需付费版带推送无启动广告的请联系QQ291969996",
+			"tintColor": "018084",
+			"size": 213785224
+		},
+         {
+			"name": "QQ纯净版",
+			"bundleIdentifier": "com.tencent.mqq.1",
+			"version": "8.8.68.629",
+			"versionDate": "2022-01-30",
+			"downloadURL": "https://outexp-beta.cdn.qq.com/outbeta/2022/01/30/comtencentmqq1_8.8.68.629_1f494135-717c-52b1-837b-3b7b8f23ff9b.ipa",
+			"iconURL": "http://tiebapic.baidu.com/tieba/pic/item/a686c9177f3e6709363ad7862cc79f3df8dc5595.jpg",
+			"localizedDescription": "纯净版QQ,无任何添加",
+			"tintColor": "018084",
+			"size": 423535312
+		},
+		{
+			"name": "QQPro",
+			"bundleIdentifier": "nbtd.vip.qqpro",
+			"version": "8.6.0",
+			"versionDate": "2021-08-30",
+			"downloadURL": "https://outexp-beta.cdn.qq.com/outbeta/2021/08/30/comtencentmqq1_8.6.0.647_c8dcdc44-b6ea-5adf-921d-9dce3534b442.ipa",
+			"iconURL": "http://tiebapic.baidu.com/tieba/pic/item/a686c9177f3e6709363ad7862cc79f3df8dc5595.jpg",
+			"localizedDescription": "[多开应用]修改IPhone机型在线显示功能,QQ消息防撤回,QQ秒抢红包QQ等",
+			"tintColor": "018084",
+			"size": 128554320
+		},
+		{
+			"name": "unc0ver",
+			"bundleIdentifier": "science.xnu.undecimus",
+			"version": "6.2.0",
+			"versionDate": "2021-10-03",
+			"downloadURL": "https://outexp-beta.cdn.qq.com/outbeta/2021/10/03/sciencexnuundecimus_1_8ec0c55d-cdcd-51c7-bd4f-b3faf3549489.ipa",
+			"iconURL": "http://tiebapic.baidu.com/tieba/pic/item/6a600c338744ebf8d5d93446cef9d72a6059a71b.jpg",
+			"localizedDescription": "[越狱工具]支持iOS11.0-14.3系统",
+			"tintColor": "018084",
+			"size": 53758718
+		},
+		{
+			"name": "unc0ver",
+			"bundleIdentifier": "science.xnu.undecimus",
+			"version": "5.3.1",
+			"versionDate": "2020-10-17",
+			"downloadURL": "https://outexp-beta.cdn.qq.com/outbeta/2020/10/17/sciencexnuundecimus_1_425bceb2-b2f3-5d79-8ea2-5c4958a7a410.ipa",
+			"iconURL": "http://tiebapic.baidu.com/tieba/pic/item/6a600c338744ebf8d5d93446cef9d72a6059a71b.jpg",
+			"localizedDescription": "[越狱工具]支持iOS11.0-13.5系统,支持A7-A13设备",
+			"tintColor": "018084",
+			"size": 43023073
+		},
+		{
+			"name": "Taurine",
+			"bundleIdentifier": "com.odysseyteam.taurine",
+			"version": "1.1.1",
+			"versionDate": "2021-10-03",
+			"downloadURL": "https://outexp-beta.cdn.qq.com/outbeta/2021/10/03/comodysseyteamtaurine_1_5c9a8818-0340-5af2-996b-d458c3e338de.ipa",
+			"iconURL": "http://tiebapic.baidu.com/tieba/pic/item/fdfaaf51f3deb48fbc968a32b51f3a292cf5785a.jpg",
+			"localizedDescription": "[越狱工具]支持iOS14.0-14.3系统",
+			"tintColor": "018084",
+			"size": 33132976
+		},
+		{
+			"name": "Odyssey",
+			"bundleIdentifier": "org.coolstar.odyssey",
+			"version": "1.4.1",
+			"versionDate": "2021-10-03",
+			"downloadURL": "https://outexp-beta.cdn.qq.com/outbeta/2021/10/03/orgcoolstarodyssey_1_83ce5d57-7c7b-5a62-a9e4-a93615930aed.ipa",
+			"iconURL": "http://tiebapic.baidu.com/tieba/pic/item/d62a6059252dd42a43c4e4f8143b5bb5c8eab890.jpg",
+			"localizedDescription": "[越狱工具]支持IOS13的越狱",
+			"tintColor": "018084",
+			"size": 27440566
+		},
+		{
+			"name": "Chimera",
+			"bundleIdentifier": "com.electrateam.chimera",
+			"version": "1.6.2",
+			"versionDate": "2021-10-03",
+			"downloadURL": "https://outexp-beta.cdn.qq.com/outbeta/2021/10/03/comelectrateamchimera_1_4d85602e-c9ec-51fc-91fb-91899c20e035.ipa",
+			"iconURL": "http://tiebapic.baidu.com/tieba/pic/item/4bed2e738bd4b31c1196c4c290d6277f9e2ff825.jpg",
+			"localizedDescription": "[越狱工具]支持iOS12系统越狱,支持A12设备",
+			"tintColor": "018084",
+			"size": 31098621
+		},
+         {
+			"name": "NB·Plus",
+			"bundleIdentifier": "nbtd.vip.plus",
+			"version": "8.0.10",
+			"versionDate": "2021-08-07",
+			"downloadURL": "https://outexp-beta.cdn.qq.com/outbeta/2021/08/07/nbtdvipplus_8.0.10.33_bdd91620-1d70-5239-9f72-1c221b018953.ipa",
+			"iconURL": "http://tiebapic.baidu.com/tieba/pic/item/d6ca7bcb0a46f21feb10b32ae1246b600c33aea7.jpg",
+			"localizedDescription": "[多开应用]基于8.0.10最新版,包含功能多,自己从设置里面看",
+			"tintColor": "018084",
+			"size": 189990364
+		}, 
+        {
+			"name": "NB·Plus",
+			"bundleIdentifier": "nbtd.vip.plus",
+			"version": "8.0.8",
+			"versionDate": "2021-07-21",
+			"downloadURL": "https://outexp-beta.cdn.qq.com/outbeta/2021/07/21/nbtdvipplus_8.0.8.32_3b6353a3-2dc2-5c6b-8b4e-71725f6c0b0c.ipa",
+			"iconURL": "http://tiebapic.baidu.com/tieba/pic/item/d6ca7bcb0a46f21feb10b32ae1246b600c33aea7.jpg",
+			"localizedDescription": "[多开应用]基于8.0.8,包含功能多,自己从设置里面看",
+			"tintColor": "018084",
+			"size": 184592804
+		}, 
+      	 {
+			"name": "抖音净化多开版",
+			"bundleIdentifier": "com.ss.iphone.ugc.Aweme.1",
+			"version": "162016",
+			"versionDate": "2021-10-03",
+			"downloadURL": "https://outexp-beta.cdn.qq.com/outbeta/2021/10/03/comssiphoneugcAweme1_162016_99bbc42b-c451-57ec-bbc6-f0744165ba06.ipa",
+			"iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/7e/27/9c/7e279c66-7653-320e-11e2-1c92dde69adb/AppIcon-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+			"localizedDescription": "[多开应用]抖音净化！设置位于抖音-设置，保存视频去水印，保存不可下载视频，去除启动广告，去除流量警告提示，去除视频流广告，去除首页推荐视频流中的直播，屏蔽青少年提示，开启浅色模式或关闭等，注意:遇到不可以保存的视频双击视频保存即可！",
+			"tintColor": "018084",
+			"size": 118784549
+		},
+             {
+			"name": "抖音多开版",
+			"bundleIdentifier": "com.ss.iphone.ugc.Aweme.1",
+			"version": "18.5.0",
+			"versionDate": "2021-11-20",
+			"downloadURL": "https://outexp-beta.cdn.qq.com/outbeta/2021/11/20/comssiphoneugcAweme_185011_cd9335a0-916a-5a01-ad49-9fce82c3d170.ipa",
+			"iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/7e/27/9c/7e279c66-7653-320e-11e2-1c92dde69adb/AppIcon-1x_U007emarketing-0-6-0-85-220.png/180x180bb.png",
+			"localizedDescription": "[多开应用]纯净版抖音多开",
+			"tintColor": "018084",
+			"size": 137305849
+		},
+		{
+			"name": "钉钉",
+			"bundleIdentifier": "com.laiwang.DingTalk",
+			"version": "4.7.32",
+			"versionDate": "2020-10-17",
+			"downloadURL": "https://outexp-beta.cdn.qq.com/outbeta/2020/10/17/comlaiwangDingTalk_12665288_dcc338d5-964c-5df9-80cf-b4c55b9d6690.ipa",
+			"iconURL": "http://tiebapic.baidu.com/tieba/pic/item/48540923dd54564e7abf7540a4de9c82d0584ff5.jpg",
+			"localizedDescription": "[破解应用]修改定位,wifi等,入口：钉钉—我的—我的名片-职位下面起飞两个字",
+			"tintColor": "018084",
+			"size": 110151503
+		},
+		{
+			"name": "YouTube++",
+			"bundleIdentifier": "com.google.ios.youtube",
+			"version": "13.47.7",
+			"versionDate": "2020-10-17",
+			"downloadURL": "https://outexp-beta.cdn.qq.com/outbeta/2020/10/17/comgoogleiosyoutube_13.47.7_7597239e-6bad-50b3-9f1b-51eba01e820c.ipa",
+			"iconURL": "http://tiebapic.baidu.com/tieba/pic/item/8b13632762d0f703deeb67a51ffa513d2697c56a.jpg",
+			"localizedDescription": "[破解应用]软件用于观看国外视频，需要挂V才可以用！",
+			"tintColor": "018084",
+			"size": 112950620
+		},
+		{
+			"name": "酷我音乐",
+			"bundleIdentifier": "com.yeelion.kwplayer",
+			"version": "9.2.3",
+			"versionDate": "2020-10-17",
+			"downloadURL": "https://outexp-beta.cdn.qq.com/outbeta/2020/10/17/comyeelionkwplayer_9230_a2b3d5ab-1c81-5d58-9495-46e3942e4637.ipa",
+			"iconURL": "http://tiebapic.baidu.com/tieba/pic/item/cefc1e178a82b9016f26314a648da9773812efc4.jpg",
+			"localizedDescription": "[破解应用]无需付费开通VIP，即可享受VIP皮肤，无损音乐试听及下载。如无法缓冲可能是由于版权原因，请理性对待，谢谢",
+			"tintColor": "018084",
+			"size": 50291182
+		},
+  
+	]
+}
